@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DataSourceBasedErrorBars/Form1.cs) (VB: [Form1.vb](./VB/DataSourceBasedErrorBars/Form1.vb))
+<!-- default file list end -->
 # How to: Plot the Data Source Based Error Bars indicator on a chart
 
 
